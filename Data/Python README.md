@@ -1,2 +1,3 @@
 # Data
 This folder contains the two Python files that help understand how to use Python and provides instructional modules for users for things such as editing, framing, and filtering data.
+These files go step by step on how to import a csv which is a type of file that has data. The Python files go over multiple useful things to data such as importing, filtering, sorting, and merging. While these might be complex to understand, the Python files allow you to try these codes yourself and see if it works. Trial and error is a method used in these files to help you grasp the information. These files were provided by the [Research Hub](https://library.unc.edu/hub/).
