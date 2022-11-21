@@ -1,4 +1,4 @@
-#ReadME File
+#ReadME 
 This is a repository containing data set of the Apple Stock from 1980 until 2020. 
 The repository contains Three python notebook where one approach is used to filter the data set in order to understand the trends of the stock. 
 1. There is also two python notebooks that explain the basics of how to use python and these files has been created by the staff of at the [Research Hub](https://library.unc.edu/hub/) at UNC. It is worth noting that some of the instructions in these files were used in creating Samer's Python Notebook
@@ -10,3 +10,4 @@ The repository contains Three python notebook where one approach is used to filt
 - When I wanted to trade stocks, I found it very hard to find free websites that can guide me and present useful and relevant data. This repository is a step towards making and creating more free useful public information and more specifically business related information.
 As menitoned earlier this information is for the benefit of the public, feel free to use content here and add and improve on it. 
 ![Apple Stock Price with Time](https://user-images.githubusercontent.com/118204102/203100055-72488426-5474-4ac5-9e6b-54b0d987939d.jpeg)
+![Diagram : Stock Price and Volume](https://user-images.githubusercontent.com/118204102/203100199-0fc0b6c8-9a3f-4058-952b-d780ed1dcbd7.png)
