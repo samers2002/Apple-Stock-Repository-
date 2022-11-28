@@ -1,4 +1,4 @@
-# ReadME 
+# Apple Stock
 # Intro
 This is a repository containing data set of the Apple Stock from 1980 until 2020. Apple is the biggest company in the world and has the largest market capitalization in the world. The US economy and market has a higher correlation with Apple's perfromance. Stocks is one way of measuring the performance with time. As a result, it is of importance to understand some trends of the Apple stock since 1980 and be able to detect some trends by filtering the data and creating visuals.
 
