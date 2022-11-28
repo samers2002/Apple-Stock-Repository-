@@ -33,7 +33,7 @@ This visual shows when Apple's stock was greater than 70$. Some times the price 
 
 <img width="468" alt="Screen Shot 2022-11-27 at 10 55 12 PM" src="https://user-images.githubusercontent.com/118204102/204190900-a13513f7-1046-44ae-8404-26ed97334725.png">
 
-(This visual was created using [Datawrapper]([https://flourish.studio](https://www.datawrapper.de))
+(This visual was created using [Datawrapper](https://www.datawrapper.de))
 
 While the US stock market consists of different indinces (group of stocks) one of the most famous one is called the S&P 500. The S&P 500 reflects the performance of these 500 companies and their stocks. However, not each company has the same weighting. Different weighting are given to companies that are bigger, more reputable, and better performing. This visual shows the weighting and it is clear that Apple has the highest weight. This is why Apple can be a good represntation of the market. The market and Apple stock have a pretty similar correlation, which is why this Apple repositiory is of importnace.
 
