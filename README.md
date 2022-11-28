@@ -14,7 +14,7 @@ The repository contains Three python notebook where one approach is used to filt
 
 
 # Quick Note
-As menitoned earlier this information is for the benefit of the public, feel free to use content here and add and improve on it. 
+As menitoned earlier this information is for the benefit of the public, feel free to use the content here. The goal of this reposiotry is to educate people about analyzing data themselves. Hopefully, this repositroy can benefit people and even build a community. While I chose one metric to filter the "Apple CSV", there are multiple different metrics to use when analayzing stocks.
 
 # Visual Represntations of the Data
 ![Apple Stock Price with Time](https://user-images.githubusercontent.com/118204102/203100055-72488426-5474-4ac5-9e6b-54b0d987939d.jpeg)
