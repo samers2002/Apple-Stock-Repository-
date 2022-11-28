@@ -3,9 +3,13 @@
 This is a repository containing data set of the Apple Stock from 1980 until 2020. Apple is the biggest company in the world and has the largest market capitalization in the world. The US economy and market has a higher correlation with Apple's perfromance. Stocks is one way of measuring the performance with time. As a result, it is of importance to understand some trends of the Apple stock since 1980 and be able to detect some trends by filtering the data and creating visuals.
 
 # How was this repository created and how to recreate it?
-The repository contains Three python notebook where one approach is used to filter the data set in order to understand the trends of the stock. 
+The repository contains two python notebooks where one approach is used to filter the data set in order to understand the trends of the stock. 
 1. There is also two python notebooks that explain the basics of how to use python and these files has been created by the staff of at the [Research Hub](https://library.unc.edu/hub/) at UNC. It is worth noting that some of the instructions in these files were used in creating Samer's Python Notebook
 2. The third notebook is a python file is a Python instruction file by Samer Subei at Univeristy of North Carolina at Chapel Hill
+
+# Purpose
+The purpose of this repository is to allow people to create their own analysis. Nowadays, alot of the analysis require fees, or is sponsored, or just manipulated for the benefit of an individual or a company. Having the skill to look at stock data and any data in general, and then being able to process and filter it is a very important skill that goes a long way. 
+
 
 # Inspiration
 - This repository was inpsired by the FAANG complete stock data [repositary](https://www.kaggle.com/datasets/aayushmishra1512/faang-complete-stock-data?resource=download). The FAANG repository was about putting data of big companies that most people know about and are probably customers.
