@@ -18,4 +18,4 @@ As menitoned earlier this information is for the benefit of the public, feel fre
 
 # Visual Represntations of the Data
 ![Apple Stock Price with Time](https://user-images.githubusercontent.com/118204102/203100055-72488426-5474-4ac5-9e6b-54b0d987939d.jpeg)
-![Diagram : Stock Price and Volume](https://user-images.githubusercontent.com/118204102/203100199-0fc0b6c8-9a3f-4058-952b-d780ed1dcbd7.png)
+<img width="468" alt="Screen Shot 2022-11-27 at 10 55 12 PM" src="https://user-images.githubusercontent.com/118204102/204190900-a13513f7-1046-44ae-8404-26ed97334725.png">
