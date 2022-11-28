@@ -19,7 +19,9 @@ As menitoned earlier this information is for the benefit of the public, feel fre
 # Visual Represntations of the Data
 ![Apple Stock Price with Time](https://user-images.githubusercontent.com/118204102/203100055-72488426-5474-4ac5-9e6b-54b0d987939d.jpeg)
 
+
 This visual shows when Apple's stock was greater than 70$. Some times the price was not changing much because of market conditions such as Covid-19. Looking at this graph can enable the reader to detect some trends at certain times.
+
 
 
 <img width="468" alt="Screen Shot 2022-11-27 at 10 55 12 PM" src="https://user-images.githubusercontent.com/118204102/204190900-a13513f7-1046-44ae-8404-26ed97334725.png">
